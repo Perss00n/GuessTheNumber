@@ -1,4 +1,10 @@
-﻿namespace GuessTheNumber
+/*
+CREATED BY Perss00n
+Email: Perss00n@gmail.com
+Discord: Perss00n
+*/
+
+namespace GuessTheNumber
 {
     internal class Program
     {
